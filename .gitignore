@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/packages
+/SimpleVendingMachine.Core/bin/Debug
+/SimpleVendingMachine.Core/obj/Debug
+/SimpleVendingMachine.Core.Tests/bin/Debug
+/SimpleVendingMachine.Core.Tests/obj/Debug
+*.user
